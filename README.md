@@ -31,3 +31,5 @@ DATABASES 部分根据实际数据库信息进行修改 <br>
 python3 manage.py runserver 0.0.0.0:8000
 ```
 ![Alt text](https://github.com/zsx0728/big_data_view/blob/main/static/images/20211011144634.png)
+<br>
+未完待续……
